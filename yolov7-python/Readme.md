@@ -21,4 +21,4 @@ To run this script, the following libraries are required:
 You can install the required dependencies using pip:
 
 ```bash
-pip install opencv-python numpy onnxruntime
+pip install -r requirements.txt
