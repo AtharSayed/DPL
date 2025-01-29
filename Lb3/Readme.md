@@ -2,7 +2,7 @@
 
 This project demonstrates how to classify handwritten digits from the MNIST dataset using a simple feed-forward neural network built with TensorFlow. The model is trained and evaluated using TensorFlow's high-level API, Keras.
 
-## Table of Contents
+## Lab Workflow
 
 - [Introduction](#introduction)
 - [Setup](#setup)
