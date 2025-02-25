@@ -16,7 +16,7 @@ Deep learning is a subfield of machine learning where algorithms are inspired by
 
 ## Tasks and Implementations
 
-This repository includes the following deep learning tasks and implementations:
+This repository includes the following deep-learning tasks and implementations:
 
 - **Basic Neural Network Models for Classification**
   - Implement basic neural network models for simple classification tasks.
@@ -39,8 +39,8 @@ Follow the steps below to get started with the project:
 
 1. **Clone this repository** to your local machine:
     ```bash
-    git clone https://github.com/yourusername/deep-learning-practice.git
-    cd deep-learning-practice
+    git clone https://github.com/yourusername/DPL.git
+    cd DPL/practice
     ```
 
 2. **Install the necessary libraries**:
@@ -55,15 +55,6 @@ Follow the steps below to get started with the project:
     
 ---
 
-## Example Usage
-
-Here’s an example of how to train a simple neural network for classification:
-
-1. Open the `neural_network_classification.ipynb` notebook in the **Basic Neural Network Models for Classification** folder.
-2. Follow the instructions in the notebook to train a neural network on the MNIST dataset.
-3. Run the cells in order, and visualize the results.
-
----
 
 ## Contributing
 
