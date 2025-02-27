@@ -30,6 +30,11 @@ This repository includes the following deep-learning tasks and implementations:
     - **Tanh**
     - **Softmax**
     - **ReLU**
+      
+- **Ecommerce-Order Accuracy Prediction using Deep Learning**
+- Used tensorflow for building sequential model
+- Performed One-hot Encoding on some columns
+- Performed map() encoding on data with less cardinality 
 
 ---
 
@@ -51,8 +56,8 @@ Follow the steps below to get started with the project:
 
 3. **Explore and run the code**:
     - Navigate to the respective task directories for different implementations.
-    - Each task contains a separate Jupyter notebook or Python script that demonstrates the model and its working.
-    
+    - Each task contains a Jupyter notebook or Python script demonstrating the model and its working.
+      
 ---
 
 
@@ -61,3 +66,4 @@ Follow the steps below to get started with the project:
 Feel free to contribute by opening issues, submitting pull requests, or suggesting improvements. This repository is open-source, and contributions from the community are highly appreciated.
 
 Happy learning and coding! 🚀
+Thank you !
