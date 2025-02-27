@@ -32,9 +32,9 @@ This repository includes the following deep-learning tasks and implementations:
     - **ReLU**
       
 - **Ecommerce-Order Accuracy Prediction using Deep Learning**
-- Used tensorflow for building sequential model
-- Performed One-hot Encoding on some columns
-- Performed map() encoding on data with less cardinality 
+  - Used tensorflow for building sequential model
+  - Performed One-hot Encoding on some columns
+  - Performed map() encoding on data with less cardinality 
 
 ---
 
