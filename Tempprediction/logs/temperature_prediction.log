@@ -1,0 +1,24 @@
+2025-04-08 10:26:06,174 - INFO - Execution started.
+2025-04-08 10:26:06,177 - INFO - Dataset loaded successfully.
+2025-04-08 10:26:06,180 - INFO - Date column parsed and set as index.
+2025-04-08 10:26:06,407 - INFO - Temperature trend plotted and saved at F:\M.Tech_CollgeMaterials\DPL\Labtest\output\temperature_trend.png
+2025-04-08 10:26:06,408 - INFO - Missing values in dataset:
+meantemp        0
+humidity        0
+wind_speed      0
+meanpressure    0
+dtype: int64
+2025-04-08 10:26:06,411 - INFO - Temperature normalized using MinMaxScaler.
+2025-04-08 10:26:06,412 - INFO - Input sequences prepared. X shape: (107, 7, 1), y shape: (107,)
+2025-04-08 10:26:06,412 - INFO - Training data shape: X_train=(85, 7, 1), y_train=(85,)
+2025-04-08 10:26:06,413 - INFO - Validation data shape: X_val=(22, 7, 1), y_val=(22,)
+2025-04-08 10:26:06,516 - INFO - RNN model compiled.
+2025-04-08 10:26:13,542 - INFO - RNN model trained.
+2025-04-08 10:26:13,567 - INFO - LSTM model compiled.
+2025-04-08 10:26:21,060 - INFO - LSTM model trained.
+2025-04-08 10:26:21,226 - INFO - Training and validation loss plot saved at F:\M.Tech_CollgeMaterials\DPL\Labtest\output\training_validation_loss.png
+2025-04-08 10:26:21,769 - INFO - Actual vs predicted temperature plot saved at F:\M.Tech_CollgeMaterials\DPL\Labtest\output\actual_vs_predicted.png
+2025-04-08 10:26:21,770 - INFO - RNN MSE: 2.7239
+2025-04-08 10:26:21,770 - INFO - LSTM MSE: 2.6885
+2025-04-08 10:26:21,770 - INFO - Conclusion: LSTM performed better due to its long-term memory capabilities.
+2025-04-08 10:26:21,770 - INFO - Execution completed successfully.
