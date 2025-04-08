@@ -28,5 +28,5 @@ To get started, follow these simple steps to clone the repository and install th
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/DPL.git
+git clone https://github.com/AtharSayed/DPL.git
 cd DPL
